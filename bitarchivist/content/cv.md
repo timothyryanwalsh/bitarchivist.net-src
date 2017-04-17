@@ -15,7 +15,7 @@ University of Florida
 
 # Professional Experience
 
-#### Canadian Centre for Architecture (Montreal, QC)
+#### Canadian Centre for Architecture (Montréal, QC)
 **Archivist, Digital Archives** | June 2015 - present  
 
 * Establishes standards, policies, and procedures for acquisition, treatment, arrangement, description, and access of born-digital archives.
