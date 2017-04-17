@@ -1,10 +1,8 @@
 baseurl = "https://bitarchivist.net/"
 languageCode = "en-US"
 title = "Tim Walsh - Digital archivist, coder"
-# Enable comments by entering your Disqus shortname
-disqusShortname = ""
-# Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+disqusShortname = "bitarchivist-net"
+googleAnalytics = "UA-97498540-1"
 theme = "hugo-sustain"
 
 [permalinks]
@@ -13,7 +11,7 @@ theme = "hugo-sustain"
 [params]
   avatar = "profile.png"
   author = "Tim Walsh"
-  description = "Hi. Welcome to my page. I'm an archivist who spends a lot of time thinking about digital preservation, the web, and possibilities for access afforded by born-digital objects. Let's build an accessible bridge to the past together."
+  description = "I'm an archivist who spends a lot of time thinking about digital preservation, the web, and possibilities for access afforded by born-digital objects. Let's build an accessible bridge to the past together."
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []

@@ -40,6 +40,7 @@
                       <h6 style="text-align: left">
                         <strong><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></strong>
                       </h6>
+                    {{ partial "disqus" . }}
                     </div>
                   </div>
                 {{ end }}
