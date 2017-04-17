@@ -95,7 +95,7 @@ html, body {
   font-weight: bold;
 }
 .container a:hover {
-  color: #3870d8;
+  color: #185ddd;
 }
 .img-responsive {
  display: block;
@@ -116,10 +116,10 @@ html, body {
   font-size: 15px;
 }
 .panel-default h4 a, h5 a {
-  color: #3870d8;
+  color: #185ddd;
 }
 .panel-default h4 a:hover, h5 a:hover {
-  color: #3870d8;
+  color: #185ddd;
 }
 .panel{
   border-style: none;
