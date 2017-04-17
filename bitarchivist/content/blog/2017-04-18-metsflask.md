@@ -1,5 +1,5 @@
 +++
-Title = "METSFlask and Exploration of Archivematica METS Files"
+Title = "METSFlask and Human-Friendly Exploration of Archivematica METS Files"
 date = "2017-04-18"
 description = ""
 tags = [ "METS", 
@@ -14,13 +14,13 @@ A topic I've spent a lot of time thinking about in the last two years at CCA is 
 
 To this point, access has been fairly ad-hoc. When a user requests material, files are copied from preserved AIPs in [Archivematica](http://archivematica.org) or – if the requested material is in our (still quite subtantial) backlog that has yet to be arranged, described, and ingested into Archivematica – from original source media into a network share that researchers can access on one of two locked-down workstations in the CCA reading room (more on these work stations in blog posts to come).
 
-Eventually, we would like to provide access to digital files using DIPs we are creating in Archivematica. These DIPs – as well as the AIPs we currently serve to researchers – consist of copies of the digital objects, in their original formats or migrated to preservation/access formats according to CCA's file format policies as well as a crucial supplement: a [METS](http://www.loc.gov/standards/mets/) file containing loads of identification, characterization, and PREMIS Event metadata.
+Eventually, we would like to provide access to digital files using DIPs created by Archivematica. These DIPs – as well as the AIPs we currently serve to researchers – consist of copies of the digital objects in their original formats or migrated to preservation/access formats according to CCA's file format policies as well as a crucial supplement: a [METS](http://www.loc.gov/standards/mets/) file containing loads of identification, characterization, and PREMIS Event metadata.
 
 ![METS](/img/mets.png)
 
-As Marco Klindt said at a recent Archivematica Camp, "[The METS File *is* the AIP](https://www.slideshare.net/Archivematica/premis-in-mets-in-archivematica)". It contains all the information a researcher or digital preservation practitioner needs to know about original files ingested as part of a SIP, their preservation derivatives, and all of the events that happened to both within our care. If we want to give researchers the ability to search, sort, and browse files and file system metadata before they were changed by Archivematica, or if we want to show a demonstrable chain of custody to establish the authenticity of files we're serving to our researchers, the METS file is the key.
+As Marco Klindt said at a recent Archivematica Camp, "[The METS File *is* the AIP](https://www.slideshare.net/Archivematica/premis-in-mets-in-archivematica)". It contains all the information a researcher or digital preservation practitioner needs to know about original files ingested as part of a SIP, their preservation derivatives, and all of the events that happened to both within our care. If we want to give researchers the ability to search, sort, and browse file system metadata as it existed pre-ingest, or if we want to show a demonstrable chain of custody to establish the authenticity of files we're serving to our researchers, the METS file is the key.
 
-But METS files can be awfully hard to read, even for us practitioners. And it's arguable unreasonable to ask our researchers to spend tons of time browsing through very long XML files encoded in a schema with with they are likely not familiar.
+But METS files can be awfully hard to read, even for us practitioners. And it's arguably unreasonable to ask our researchers to spend tons of time browsing through very long XML files encoded in a schema with with they are likely not familiar.
 
 So what's to be done?
 
@@ -65,7 +65,7 @@ That said, there are some real limitations and opportunities for improvement.
 
 ### Dates
 
-One of the most crucial missing elements in METSFlask is handling of dates. Many researchers have told me that they rely on file system dates for tasks like reconstructing a chronology of a creator's work (in architecture, this is perhaps especially crucial, as multiple version of a CAD model might exist in multiple file formats within a given project directory. If you want to piece together which software was used for which purpose – say, form finding was done in Rhino, then the file was ported to Revit for inclusion in a BIM model and 3DSMax for rendering – file system dates might be one of the best clues available to you.
+One of the most crucial missing elements in METSFlask is handling of dates. Many researchers have told me that they rely on file system dates for tasks like reconstructing a chronology of a creator's work. (In architecture, this is perhaps especially crucial, as multiple versions of a CAD model might exist in multiple file formats within a given project directory. If you want to piece together which software was used for which purpose – say, for form finding, design detail, rendering, and/or creation of construction drawings – file system dates might be one of the best clues available to you.)
 
 METSFlask does report on file system dates in the "Detailed identification" section of individual file pages, but this reporting is inconsistent.
 
@@ -83,9 +83,9 @@ The cause of this inconsistency is the default Characterization rules in the Arc
 
 ![AMatica-Characterization](/img/amatica-characterization.png)
 
-In short, for the last few versions of Archivematica, users have more flexibility and a wide range of powerful characterization tools available (yay!). But the downside of this is that with the default FPR rules, the output written to the METS file for each file depends on the file's format, which in turn determines the characterization tool used. Once you get into the `<premis:objectCharacteristicsExtension>` bit of an amdSec, there isn't by default any consistency between all of the files ingested. And because file system dates are only recorded as output from tools in `<premis:objectCharacteristicsExtension>`, this means we have no consistent source to extract dates from for our application.
+In short, for the last few versions of Archivematica, users have more flexibility and a wide range of powerful tools available for characterization (yay!). However, with the default FPR rules the output written to the METS file changes between files, as the characterization tool called depends on the file's format. Once you get into the `<premis:objectCharacteristicsExtension>` bit of an amdSec, there isn't any consistency between all of the files ingested. And because file system dates are only recorded as output from tools in `<premis:objectCharacteristicsExtension>`, this means we have no consistent source to extract dates from for our application.
 
-Of course, this can be rectified fairly simply. At CCA, we used one of our support contract tickets to have Artefactual develop an [Archivematica devtools script](https://github.com/artefactual/archivematica-devtools/tree/dev/issue-11019-ensure-fits-characterization) which adds FITS as a Characterization tool for all files ingested into Archivematica, as an addition rather than a replacement of the tools already being used. If you are using AM 1.6, you can use the script yourself by cloning the archivematica-devtools repo, installing, and running the command:
+Of course, this can be changed fairly simply. At CCA, we used one of our support contract tickets to have Artefactual develop an [Archivematica devtools script](https://github.com/artefactual/archivematica-devtools/tree/dev/issue-11019-ensure-fits-characterization) which adds FITS as a Characterization tool for all files ingested into Archivematica, as an addition rather than a replacement of the tools already being used. If you are using AM 1.6, you can use the script yourself by cloning the archivematica-devtools repo, installing, and running the command:
 
 ```
 $ cd /path/to/archivematica-devtools
@@ -94,7 +94,7 @@ $ sudo make install
 $ sudo am ensure-fits-characterization
 ```
 
-(Thanks to Joel Dunham for writing the script and the simple documentation!)
+*(Thanks to Joel Dunham for writing the script and the simple documentation!)*
 
 After being deployed, this means that there will consistently be a Date modified (and sometimes a Date created as well) that we can add into our AIP Table view, to support the functionality that users have requested digital archives access user testing at CCA.
 
@@ -104,11 +104,11 @@ The other big limitation at the moment is that the scope of the detailed metadat
 
 ![MediaInfo](/img/mediainfo.png)
 
-(For example, check out some of this MediaInfo output for an mp4 of the Canadian classic [Bon Cop Bad Cop](https://www.youtube.com/watch?v=UxMuCyzXgC4))
+*(For example, check out some of this MediaInfo output for an mp4 of the Canadian classic [Bon Cop Bad Cop](https://www.youtube.com/watch?v=UxMuCyzXgC4))*
 
-So far in METSFlask, this information is not represented, in no small part I was thinking about this project as a proof of concept and the task of hard-coding XPaths for every potential output tag from all of the Archivematica characterization tools seemed like it would be a Herculean effort. Perhaps there's a simpler way to do the actual retrieval/coding, but maybe the first place to start is with a question: **how much and precisely what information do we want to be displaying to begin with?**
+So far in METSFlask, this information is not represented – in no small part because I was thinking about this project as a proof of concept and the prospect of hard-coding XPaths for every potential output tag from all of the Archivematica characterization tools seemed daunting. In retrospect, there might be a smarter way to do the actual retrieval/coding, but perhaps the first place to start is with a question: **how much and precisely what information do we want to be displaying to begin with?**
 
-That's an open question to me and I'm very curious to get your feedback, particularly if you could see METSFlask or something like it being useful for your institutional use case. So please, leave comments or get in touch via [Twitter](https://twitter.com/bitarchivist) or email!
+What do you think? I'm very curious to get your feedback, particularly if you could see METSFlask or something like it being useful for your institutional use case. So please, leave comments or get in touch via [Twitter](https://twitter.com/bitarchivist) or email!
 
 ### Database and scaling
 
@@ -118,3 +118,9 @@ Because METSFlask uses the [SQLAlchemy](https://www.sqlalchemy.org/) object-rela
 
 ## Conclusion
 
+I think METSFlask served its original purpose as a "proof of concept" for human-friendly exploring of Archivematica METS files pretty well. And I think there might even be potential for it (or something like it) beyond that initial, limited scope.
+
+But our tools always work better and last longer when they're designed and sustained by a community. I'd love to get your feedback, ideas, contributions, etc., to see if we can't together push this idea to the next level.
+
+METSFlask repo: [https://github.com/timothyryanwalsh/METSFlask](https://github.com/timothyryanwalsh/METSFlask)  
+Live instance: [http://bitarchivist.pythonanywhere.com](http://bitarchivist.pythonanywhere.com)
