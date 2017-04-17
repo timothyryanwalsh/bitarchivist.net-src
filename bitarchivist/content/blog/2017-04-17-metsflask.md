@@ -116,7 +116,7 @@ Right now, METSFlask is running on a SQLite database, even in production. Becaus
 
 Because METSFlask uses the [SQLAlchemy](https://www.sqlalchemy.org/) object-relational mapper (ORM) to handle database connections and queries, swapping out SQLite for something like MySQL isn't a very big or complicated job. But to this point, it's not one that I've given much time or attention.
 
-Keeping all of your METS files in a local production instance of METSFlask right also require some other changes. Currently, any user can delete any METS file that has been uploaded from the database. This was designed intentionally so that institutions could use the [live instance]((http://bitarchivist.pythonanywhere.com)) of the application without needing to store information from their METS files on a remote server permanently. If a local instance requires that only administrators can delete files, however, the addition of an authentication module and permissions framework that does not yet exist in the application will be necessary.
+Keeping all of your METS files in a local production instance of METSFlask might also require some other changes. Currently, any user can delete any METS file that has been uploaded from the database. This was designed intentionally so that institutions could use the [live instance]((http://bitarchivist.pythonanywhere.com)) of the application without needing to store information from their METS files on a remote server permanently. If a local instance requires that only administrators can delete files, however, the addition of an authentication module and permissions framework that does not yet exist in the application will be necessary.
 
 ### Name
 
