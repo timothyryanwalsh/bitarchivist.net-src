@@ -27,6 +27,7 @@
             <div class="blogpost">
               {{ .Content }}
               <hr>
+              {{ partial "disqus" . }}
               <div class="related-posts">
                 <h5>Related Posts</h5>
                 {{ range first 3 ( where ( where .Site.Pages.ByDate.Reverse ".Params.tags" "intersect" .Params.tags ) "Permalink" "!=" .Permalink ) }}
@@ -40,7 +41,6 @@
                       <h6 style="text-align: left">
                         <strong><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></strong>
                       </h6>
-                    {{ partial "disqus" . }}
                     </div>
                   </div>
                 {{ end }}
