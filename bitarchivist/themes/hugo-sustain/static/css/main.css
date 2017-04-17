@@ -4,7 +4,7 @@ html, body {
   background-color: #fff;
   font-family: 'Source Sans Pro', sans-serif;
   /* The html and body elements cannot have any padding or margin. */
-  border-top: 3px solid #f441f1;
+  border-top: 5px solid #000;
 }
 
 /* Wrapper for page content to push down footer */
@@ -70,13 +70,13 @@ html, body {
 }
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
-    color: #000000;
+    color: #000;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
-    color: #000000;
+    color: #000;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
-    color: #000000;
+    color: #000;
     background-color: #ffffff;
   }
 }
@@ -91,11 +91,11 @@ html, body {
   margin: 20px 0;
 }
 .container a {
-  color: #000000;
+  color: #000;
   font-weight: bold;
 }
 .container a:hover {
-  color: #f441f1;
+  color: #3870d8;
 }
 .img-responsive {
  display: block;
@@ -116,10 +116,10 @@ html, body {
   font-size: 15px;
 }
 .panel-default h4 a, h5 a {
-  color: #f441f1;
+  color: #3870d8;
 }
 .panel-default h4 a:hover, h5 a:hover {
-  color: #f441f1;
+  color: #3870d8;
 }
 .panel{
   border-style: none;
@@ -184,7 +184,7 @@ html, body {
 	color: #6b6b6b;
 }
 div.footer{
-  border-bottom: 5px solid #f441f1;;
+  border-bottom: 10px solid #000;
 }
 /* Set the fixed height of the footer here */
 /*.footer {
