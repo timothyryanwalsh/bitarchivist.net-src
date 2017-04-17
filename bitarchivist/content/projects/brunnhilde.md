@@ -1,5 +1,5 @@
 +++
-Title = "Brunnhilde"
+Title = "Software: Brunnhilde"
 date = "2017-04-17"
 description = "Description of Brunnhilde, a characterization tool for digital archives"
 tags = [
