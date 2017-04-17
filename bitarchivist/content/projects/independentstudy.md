@@ -1,7 +1,11 @@
 +++
-Title = "Independent Study"
+Title = "Independent Study: Access to Born-Digital Architectural Records"
 date = "2017-04-16"
 description = "Independent study reading list"
+tags = [
+    "projects",
+    "computer-aided design"
+]
 +++
 
 # Access to Born-Digital Architectural Records
