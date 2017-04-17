@@ -70,6 +70,17 @@ Session review, "[S10. Providing Access to Born-Digital Materials](https://newen
 
 "[Introduction to Computer Aided Design (CAD) for Archivists](https://www.lyrasis.org/Pages/EventDetail.aspx?Eid=FF6E5D5B-2887-E611-80D3-00155D0A8C44)," online (two-hour webinar), LYRASIS, 9 March 2017.
 
+# Software Development
+
+(See more detail on software projects [here](/projects/).)
+
+[Brunnhilde](https://github.com/timothyryanwalsh/brunnhilde): A Siegfried-based reporting tool for digital archives.  
+
+[CCA Tools](https://github.com/timothyryanwalsh/cca-tools): A set of processing tools (Disk Image Processor, Folder Processor, SIP Creator, and DFXML Reader) used in the arrangement and description workflows for born-digital archives at CCA.
+
+[METSFlask](https://github.com/timothyryanwalsh/METSFlask): A web application for human-friendly exploration of Archivematica METS files.
+
+
 # Presentations
 
 "[Selecting an Access and Digital Preservation Platform for Humanities Research in Audio and Video Format: Avalon & Archivematica](http://spectrum.concordia.ca/982042/)," (with Jared Wiercinski and Tomasz Neugebauer), Literary Audio Symposium, Concordia Univeristy, Montreal, QC, 3 December 2016.  
