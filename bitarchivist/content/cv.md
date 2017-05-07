@@ -83,6 +83,8 @@ Session review, "[S10. Providing Access to Born-Digital Materials](https://newen
 
 # Presentations
 
+"[Automated Processing of Disk Images and Directories in BitCurator](http://bitarchivist.net/blog/2017-05-01-buf2017/)," BitCurator Users Forum, Northwestern University, Chicago, IL, 28 April 2017.
+
 "[Selecting an Access and Digital Preservation Platform for Humanities Research in Audio and Video Format: Avalon & Archivematica](http://spectrum.concordia.ca/982042/)," (with Jared Wiercinski and Tomasz Neugebauer), Literary Audio Symposium, Concordia Univeristy, Montreal, QC, 3 December 2016.  
 
 "[Session 309 - DWG, RVT, BIM: A New Kind of Alphabet Soup, with a Lot More Heartburn](https://docs.google.com/presentation/d/1aEPPHzaTWEieZcCS94Hixf2Rv0YdJ8Rht6CWVrD3gHg/edit#slide=id.g15f4caf668_8_0)," Session Chair, ARCHIVES*RECORDS 2016, Society of American Archivists, Atlanta, GA, 5 August 2016.  
