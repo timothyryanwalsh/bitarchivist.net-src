@@ -58,6 +58,8 @@ University of Florida
 
 # Writing
 
+Jessica Meyerson, Zach Vowell, Wendy Hagenmaier, Aliza Leventhal, Fernando Rios, Elizabeth Russey Roke and Tim Walsh. "[The Software Preservation Network (SPN): A Community Effort to Ensure Long Term Access to Digital Cultural Heritage](http://www.dlib.org/dlib/may17/meyerson/05meyerson.html)," DLib Magazine 23, no. 5/6, May/June 2017.
+
 "[How to Access Digital Files From the Nineties](http://www.cca.qc.ca/en/issues/3/technology-sometimes-falls-short/49023/how-to-access-digital-files-from-the-nineties)," CCA web feature, April 2017.  
 
 "[Software Preservation Network: Collecting, Processing, and Providing Access to Software](https://saaers.wordpress.com/2016/10/04/software-preservation-network-collecting-processing-and-providing-access-to-software/)," bloggERS!: The Blog of SAA's Electronic Records Section, 4 October 2016.  
