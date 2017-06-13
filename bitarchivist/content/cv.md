@@ -114,14 +114,19 @@ Session review, "[S10. Providing Access to Born-Digital Materials](https://newen
 **Digital preservation models/standards:** OAIS, Trusted Digital Repositories  
 **Archival processing:** Experience arranging and describing large and small collections of paper, audiovisual, and born-digital records independently and collaboratively.  
 **Archival reference:** Experience helping students, faculty, staff, administrators, professional authors, and genealogists discover and access archival materials relevant to their research interests in person, by phone, and by email.  
-**Programming languages:** Python, Javascript, jQuery, SQL, bash  
+**Programming languages:** Python, bash, Javascript, jQuery, SQL, PHP  
 **Web frameworks:** Flask, Hugo  
 **Markup languages:** HTML, CSS, XML, JSON, Markdown  
-**Version control:** Git, Github  
+**Version control:** git, Github  
 **GUI Frameworks:** PyQT  
 **Operating Systems:** Linux, macOS, Windows  
 **Software:** Bitcurator, Archivematica, Bagger/BagIt, FTK Imager, oXygen XML Editor, The Museum System (TMS)  
 **Languages:** English (fluent), French (intermediate)  
+
+# Training
+
+#### FreeCodeCamp  
+* Front End Web Development Certification, 2016 - present (in progress; 80% completed)  
 
 # Professional Service
 
@@ -133,7 +138,7 @@ Session review, "[S10. Providing Access to Born-Digital Materials](https://newen
 #### Software Preservation Network
 
 * Coordinator, Documentation Working Group, 2016 - present  
-* Member, Metadata Standards and Policies Working Group, 2016 - present
+* Member, Metadata Standards and Policies Working Group, 2016 - 2017
 * Established an [Open Science Framework shared documentation repository](https://osf.io/a7uea/) for Software Preservation Network project members and volunteers. 
 
 #### Simmons College, Leveraging Encoded Archival Description Skills (LEADS)
