@@ -15,8 +15,6 @@ tags = [
 
 METSFlask is a Flask web application for human-friendly exploration of [Archivematica](https://www.archivematica.org/en/) [METS](http://www.loc.gov/standards/mets/) files.
 
-![METSFlaskAIP](/img/metsflask-aip.png)
-
-![METSFlaskFile](/img/metsflask-file.png)
+![METSFlaskDemo](/img/metsflask-demo.gif)
 
 Check out the [live site](http://bitarchivist.pythonanywhere.com) or see more information on [Github](https://github.com/timothyryanwalsh/METSFlask).
