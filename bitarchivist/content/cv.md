@@ -58,6 +58,8 @@ University of Florida
 
 # Writing
 
+"[Data-Driven Reporting and Processing of Digital Archives with Brunnhilde](https://practicaltechnologyforarchives.org/issue8_walsh/)," Practical Technology for Archives, Issue 8, July 2017. Peer-reviewed.
+
 Jessica Meyerson, Zach Vowell, Wendy Hagenmaier, Aliza Leventhal, Fernando Rios, Elizabeth Russey Roke and Tim Walsh. "[The Software Preservation Network (SPN): A Community Effort to Ensure Long Term Access to Digital Cultural Heritage](http://www.dlib.org/dlib/may17/meyerson/05meyerson.html)," DLib Magazine 23, no. 5/6, May/June 2017.
 
 "[How to Access Digital Files From the Nineties](http://www.cca.qc.ca/en/issues/3/technology-sometimes-falls-short/49023/how-to-access-digital-files-from-the-nineties)," CCA web feature, April 2017.  
@@ -84,6 +86,8 @@ Session review, "[S10. Providing Access to Born-Digital Materials](https://newen
 
 
 # Presentations
+
+"[Software-Driven Workflows for Efficient Processing of Large-Scale Digital Archives](https://archives2017.sched.com/event/c4739bf0b3f07908ebe2df9ab5bf0e95)," ARCHIVES 2017, Session 201: The Future of Appraisal and Processing of Digital Materials: Software, Strategies and Scalability, Portland, OR, 27 July 2017.
 
 "[Automated Processing of Disk Images and Directories in BitCurator](http://bitarchivist.net/blog/2017-05-01-buf2017/)," BitCurator Users Forum, Northwestern University, Chicago, IL, 28 April 2017.
 
@@ -132,14 +136,18 @@ Session review, "[S10. Providing Access to Born-Digital Materials](https://newen
 
 #### Society of American Archivists
 
-* Web Liaison, Architectural Records Section, 2015-2017
+* Web Liaison, Architectural Records Section, 2015 - present
 * Member, Architectural Records Section CAD/BIM Taskforce, 2015 - present
 
 #### Software Preservation Network
 
 * Coordinator, Documentation Working Group, 2016 - present  
 * Member, Metadata Standards and Policies Working Group, 2016 - 2017
-* Established an [Open Science Framework shared documentation repository](https://osf.io/a7uea/) for Software Preservation Network project members and volunteers. 
+* Established an [Open Science Framework shared documentation repository](https://osf.io/a7uea/) for Software Preservation Network project members and volunteers.
+
+#### BitCurator  
+
+* Member, Software Development Committee, 2017 - present 
 
 #### Simmons College, Leveraging Encoded Archival Description Skills (LEADS)
 
