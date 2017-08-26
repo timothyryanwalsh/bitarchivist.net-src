@@ -24,7 +24,6 @@ University of Florida
 * Develops software to enhance CCA's ability to accession, triage, arrange, describe, and ingest born-digital records.
 * Reviews and processes archival collections.  
 * Oversees project to disk image and preserve media across the CCA collection.
-n and oversees forensic disk imaging and transfer of data to secure storage.
 * In collaboration with IT, Conservation, and Collection staff, identifies, reviews, and implements key elements of CCA's digital preservation infrastructure.
 * Coordinates acquisitions of electronic records, acting as a liaison between records creators and CCA's curatorial, archival, preservation, and technical staff.
 * Advises Collection staff of the functional requirements for acquiring, preserving, and processing born-digital archives and trains archivist trainees, processing archivists, curators, and cataloguers as necessary.
