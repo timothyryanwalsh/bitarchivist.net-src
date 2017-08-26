@@ -19,11 +19,13 @@ University of Florida
 **Archivist, Digital Archives** | June 2015 - present  
 
 * Establishes standards, policies, and procedures for acquisition, treatment, arrangement, description, and access of born-digital archives.
-* Reviews and processes archival collections.
-* In collaboration with IT and Conservation, locates born-digital records on obsolete physical media in the Collection and oversees forensic disk imaging and transfer of data to secure storage.
-* In collaboration with IT, Conservation, and Collection staff, identifies, reviews, and implements key elements of CCA's digital preservation infrastructure.
-* Manages development and use of CCA's Archivematica-based digital repository.
+* Supervises team of three Digital Processing Archivists and daily work of Digital Archives Technician.  
+* Manages CCA's Archivematica-based digital repository.  
 * Develops software to enhance CCA's ability to accession, triage, arrange, describe, and ingest born-digital records.
+* Reviews and processes archival collections.  
+* Oversees project to disk image and preserve media across the CCA collection.
+n and oversees forensic disk imaging and transfer of data to secure storage.
+* In collaboration with IT, Conservation, and Collection staff, identifies, reviews, and implements key elements of CCA's digital preservation infrastructure.
 * Coordinates acquisitions of electronic records, acting as a liaison between records creators and CCA's curatorial, archival, preservation, and technical staff.
 * Advises Collection staff of the functional requirements for acquiring, preserving, and processing born-digital archives and trains archivist trainees, processing archivists, curators, and cataloguers as necessary.
 * Develops protocols and tools for access to born-digital records in contemporary and legacy software in CCA reading room.
