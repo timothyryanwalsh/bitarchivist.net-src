@@ -120,7 +120,7 @@ Session review, "[S10. Providing Access to Born-Digital Materials](https://newen
 **Archival processing:** Experience arranging and describing large and small collections of paper, audiovisual, and born-digital records independently and collaboratively.  
 **Archival reference:** Experience helping students, faculty, staff, administrators, professional authors, and genealogists discover and access archival materials relevant to their research interests in person, by phone, and by email.  
 **Programming languages:** Python, bash, Javascript, jQuery, SQL, PHP  
-**Web frameworks:** Flask, Hugo  
+**Web frameworks:** Django, Flask, Hugo  
 **Markup languages:** HTML, CSS, XML, JSON, Markdown  
 **Version control:** git, Github  
 **GUI Frameworks:** PyQT  
