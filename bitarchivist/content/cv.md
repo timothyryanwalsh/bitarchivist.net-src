@@ -71,9 +71,9 @@ Session review, "[S10. Providing Access to Born-Digital Materials](https://newen
 
 # Teaching
 
-"[Preserving Removable Digital Media](https://www.nedcc.org/preservation-training/training-calendar/event-details?eventid=273)," online (two-hour webinar), NEDCC, 4 April 2017.  
+"[Preserving Removable Digital Media](https://www.nedcc.org/preservation-training/training-calendar/event-details?eventid=273)," online (two-hour webinar), NEDCC. Offered: 4 April 2017.  
 
-"[Introduction to Computer Aided Design (CAD) for Archivists](https://www.lyrasis.org/Pages/EventDetail.aspx?Eid=FF6E5D5B-2887-E611-80D3-00155D0A8C44)," online (two-hour webinar), LYRASIS, 9 March 2017.
+"[Introduction to Computer Aided Design (CAD) for Archivists](https://www.lyrasis.org/Pages/EventDetail.aspx?Eid=FF6E5D5B-2887-E611-80D3-00155D0A8C44)," online (two-hour webinar), LYRASIS. Offered: 9 March 2017 & 9 September 2017.
 
 # Software Development
 
@@ -87,6 +87,10 @@ Session review, "[S10. Providing Access to Born-Digital Materials](https://newen
 
 
 # Presentations
+
+Closing remarks, [Designing the Future Landscape: Digital Architecture, Design and Engineering Assets](http://www.digitalpreservation.gov/meetings/ade/ade2017.html), Library of Congress, Washington, DC, 16 November 2017.
+
+"ADE Formats Primer" (with Aliza Leventhal and Katie Pierce Meyer), [Designing the Future Landscape: Digital Architecture, Design and Engineering Assets](http://www.digitalpreservation.gov/meetings/ade/ade2017.html), Library of Congress, Washington, DC, 16 November 2017.
 
 "[Software-Driven Workflows for Efficient Processing of Large-Scale Digital Archives](https://archives2017.sched.com/event/c4739bf0b3f07908ebe2df9ab5bf0e95)," ARCHIVES 2017, Session 201: The Future of Appraisal and Processing of Digital Materials: Software, Strategies and Scalability, Portland, OR, 27 July 2017.
 
