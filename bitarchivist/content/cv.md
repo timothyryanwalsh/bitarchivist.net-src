@@ -85,6 +85,7 @@ Session review, "[S10. Providing Access to Born-Digital Materials](https://newen
 
 [METSFlask](https://github.com/timothyryanwalsh/METSFlask): A web application for human-friendly exploration of Archivematica METS files.
 
+[addext](https://github.com/timothyryanwalsh/addext): Python-based CLI application to add file extensions to files based on a DROID/Siegfried identification of their PRONOM ID (PUID).
 
 # Presentations
 
