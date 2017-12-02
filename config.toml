@@ -1,7 +1,7 @@
 baseurl = "https://timothyryanwalsh.github.io/"
 languageCode = "en-US"
 title = "Tim Walsh - Digital archivist, coder"
-disqusShortname = "bitarchivist-net"
+disqusShortname = ""
 googleAnalytics = "UA-97498540-1"
 theme = "hugo-sustain"
 
