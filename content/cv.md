@@ -101,9 +101,9 @@ Closing remarks, [Designing the Future Landscape: Digital Architecture, Design a
 
 "[Selecting an Access and Digital Preservation Platform for Humanities Research in Audio and Video Format: Avalon & Archivematica](http://spectrum.concordia.ca/982042/)," (with Jared Wiercinski and Tomasz Neugebauer), Literary Audio Symposium, Concordia Univeristy, Montreal, QC, 3 December 2016.  
 
-"[Session 309 - DWG, RVT, BIM: A New Kind of Alphabet Soup, with a Lot More Heartburn](https://docs.google.com/presentation/d/1aEPPHzaTWEieZcCS94Hixf2Rv0YdJ8Rht6CWVrD3gHg/edit#slide=id.g15f4caf668_8_0)," Session Chair, ARCHIVES*RECORDS 2016, Society of American Archivists, Atlanta, GA, 5 August 2016.  
+"[Session 309 - DWG, RVT, BIM: A New Kind of Alphabet Soup, with a Lot More Heartburn](https://docs.google.com/presentation/d/1aEPPHzaTWEieZcCS94Hixf2Rv0YdJ8Rht6CWVrD3gHg/edit#slide=id.g15f4caf668_8_0)," Session Chair, ARCHIVES\*RECORDS 2016, Society of American Archivists, Atlanta, GA, 5 August 2016.  
 
-"Archaeology of the Digital & Digital Archives at CCA," Museum Archives Section Symposium on Born Digital, ARCHIVES*RECORDS 2016, Atlanta, GA, 3 August 2016. 
+"Archaeology of the Digital & Digital Archives at CCA," Museum Archives Section Symposium on Born Digital, ARCHIVES\*RECORDS 2016, Atlanta, GA, 3 August 2016. 
 
 "[Session 4: Partnerships](https://docs.google.com/presentation/d/1-lWc-4TbsJdzce64sIAXpj-KkTw-PkRL6wXbOiPbjig/edit#slide=id.p)," Software Preservation Network Forum, Atlanta, GA, 1 August 2016. 
 
