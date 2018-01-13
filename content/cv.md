@@ -133,7 +133,7 @@ Closing remarks, [Designing the Future Landscape: Digital Architecture, Design a
 **GUI Frameworks:** PyQT  
 **Operating Systems:** Linux, macOS, Windows  
 **Software:** Bitcurator, Archivematica, Bagger/BagIt, FTK Imager, oXygen XML Editor, The Museum System (TMS)  
-**Languages:** English (fluent), French (intermediate)  
+**Languages:** English (fluent), French (advanced intermediate)  
 
 # Training
 
