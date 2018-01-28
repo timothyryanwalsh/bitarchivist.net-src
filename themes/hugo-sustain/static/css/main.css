@@ -81,6 +81,19 @@ html, body {
   }
 }
 
+.box {
+  margin: 5px;
+}
+.box:hover {
+  border: 1px solid;
+  box-shadow: 3px 3px;
+}
+.box:active {
+  border: 1px solid;
+  background: #d3d3d3;
+  box-shadow: 3px 3px;
+}
+
 /* Custom page CSS */
 .container {
   width: auto;
