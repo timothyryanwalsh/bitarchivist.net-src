@@ -19,7 +19,7 @@ University of Florida
 **Archivist, Digital Archives** | June 2015 - present  
 
 * Establishes standards, policies, and procedures for acquisition, treatment, arrangement, description, and access of born-digital archives.
-* Supervises team of three Digital Processing Archivists and daily work of Digital Archives Technician.  
+* Supervises four profesional archivists and daily work of a digital archives technician.  
 * Manages CCA's Archivematica-based digital repository.  
 * Develops software to enhance CCA's ability to accession, triage, arrange, describe, and ingest born-digital records.
 * Reviews and processes archival collections.  
