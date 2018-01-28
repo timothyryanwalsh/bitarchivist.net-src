@@ -1,6 +1,6 @@
 +++
 Title = "Curriulum Vitae"
-date = "2017-11-20"
+date = "2018-01-28"
 description = ""
 +++
 
@@ -119,26 +119,38 @@ Closing remarks, [Designing the Future Landscape: Digital Architecture, Design a
 
 "Democratizing Archives: Digital Libraries and the Expansion of the Archival User Base" (with Leah Edelman and Elizabeth McGorty), University of Indiana-Bloomington SAA Student Chapter Conference, Bloomington, IN, March 2014. 
 
-# Skills  
+# Skills
 
-**Archival content standards:**  DACS, RAD, ISAD(G)  
-**Data structure standards:** EAD, EAC-CPF, MARC, MODS, METS, PREMIS, Dublin Core  
-**Digital preservation models/standards:** OAIS, Trusted Digital Repositories  
-**Archival processing:** Experience arranging and describing large and small collections of paper, audiovisual, and born-digital records independently and collaboratively.  
-**Archival reference:** Experience helping students, faculty, staff, administrators, professional authors, and genealogists discover and access archival materials relevant to their research interests in person, by phone, and by email.  
-**Programming languages:** Python, bash, Javascript, jQuery, SQL, PHP  
-**Web frameworks:** Django, Flask, Hugo  
-**Markup languages:** HTML, CSS, XML, JSON, Markdown  
-**Version control:** git, Github  
-**GUI Frameworks:** PyQT  
-**Operating Systems:** Linux, macOS, Windows  
-**Software:** Bitcurator, Archivematica, Bagger/BagIt, FTK Imager, oXygen XML Editor, The Museum System (TMS)  
-**Languages:** English (fluent), French (advanced intermediate)  
+#### General
+* **Languages:** English (fluent), French (working proficiency - level C1)  
 
-# Training
+#### Archives
 
-#### FreeCodeCamp  
-* Front End Web Development Certification, 2016 - present (in progress; 80% completed)  
+* **Archival content standards:**  DACS, RAD, ISAD(G)  
+* **Data structure standards:** EAD, EAC-CPF, MARC, MODS, METS, PREMIS, Dublin Core  
+* **Archival processing:** Experience arranging and describing large and small collections of paper, audiovisual, and born-digital records independently and collaboratively.  
+* **Archival reference:** Experience helping students, faculty, staff, administrators, professional authors, and genealogists discover and access archival materials relevant to their research interests in person, by phone, and by email.  
+
+#### Digital Preservation
+
+* **Digital preservation models/standards:** OAIS, Trusted Digital Repositories  
+* **Software and Hardware:** BitCurator, Archivematica, Bagger/BagIt, FTK Imager, oXygen XML Editor, The Museum System (TMS)  
+* Experience implementing and managing daily use and customization of production multi-server Archivematica-based digital repository.
+* Experience developing and maintaining free and open-source digital preservation software utilities.
+
+
+#### Software Development
+
+*Self-taught developer currently working on several part-time Django and Flash projects and studying full-stack JavaScript.*
+
+* **Programming languages:** Python, bash, Javascript, jQuery, SQL 
+* **Web frameworks:** Django, Flask
+* **Static site generators:** Hugo, Jekyll
+* **Markup languages:** HTML, CSS, XML, JSON, Markdown  
+* **Version control:** git, Github  
+* **Databases:** SQLite, MySQL, MS SQL Server
+* **GUI Frameworks:** PyQT  
+* **Operating Systems:** Linux, macOS, Windows  
 
 # Professional Service
 
