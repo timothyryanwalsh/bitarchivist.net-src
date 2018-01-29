@@ -149,7 +149,7 @@ Closing remarks, [Designing the Future Landscape: Digital Architecture, Design a
 * **Front end:** CSS3, jQuery, Bootstrap
 * **Markup languages:** HTML5, XML/XSLT, JSON, Markdown  
 * **Version control:** git, Github  
-* **Databases:** SQLite, MySQL, MS SQL Server
+* **Databases:** SQLite, MySQL, MS SQL Server, SQLAlchemy
 * **GUI Frameworks:** PyQT  
 * **Operating Systems:** Linux, macOS, Windows  
 
