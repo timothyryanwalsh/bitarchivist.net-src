@@ -135,7 +135,8 @@ Closing remarks, [Designing the Future Landscape: Digital Architecture, Design a
 
 * **Digital preservation models/standards:** OAIS, Trusted Digital Repositories  
 * **Digital preservation software:** Experience implementing and managing daily use and customization of production multi-server Archivematica-based digital repository.
-* **Digital forensics:** Bitcurator, FTK Imager, The Sleuth Kit (TSK), Bulk Extractor, Kryoflux
+* **Digital forensics:** BitCurator, FTK Imager, The Sleuth Kit (TSK), Bulk Extractor, Kryoflux. 
+* **Emulation/Virtualization:** QEMU, SheepShaver, Basilisk II, VirtualBox, VMWare
 
 
 #### Software Development
@@ -148,9 +149,11 @@ Closing remarks, [Designing the Future Landscape: Digital Architecture, Design a
 * **Front end:** CSS3, jQuery, Bootstrap
 * **Markup languages:** HTML5, XML/XSLT, JSON, Markdown  
 * **Version control:** git, Github  
+* **Continuous integration:** TravisCI, tox
 * **Databases:** SQLite, MySQL, MS SQL Server, SQLAlchemy
 * **GUI Frameworks:** PyQT  
 * **Operating Systems:** Linux, macOS, Windows  
+* **Containers:** Docker
 
 # Professional Service
 
