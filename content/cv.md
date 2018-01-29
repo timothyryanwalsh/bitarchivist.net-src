@@ -136,7 +136,7 @@ Closing remarks, [Designing the Future Landscape: Digital Architecture, Design a
 * **Digital preservation models/standards:** OAIS, Trusted Digital Repositories  
 * **Digital preservation software:** Experience implementing and managing daily use and customization of production multi-server Archivematica-based digital repository.
 * **Digital forensics:** BitCurator, FTK Imager, The Sleuth Kit (TSK), Bulk Extractor, Kryoflux. 
-* **Emulation/Virtualization:** QEMU, SheepShaver, Basilisk II, VirtualBox, VMWare
+* **Emulation/virtualization:** QEMU, SheepShaver, Basilisk II, VirtualBox, VMWare
 
 
 #### Software Development
