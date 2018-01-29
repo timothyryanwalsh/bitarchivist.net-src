@@ -134,8 +134,8 @@ Closing remarks, [Designing the Future Landscape: Digital Architecture, Design a
 #### Digital Preservation
 
 * **Digital preservation models/standards:** OAIS, Trusted Digital Repositories  
-* **Software and Hardware:** BitCurator, Archivematica, Bagger/BagIt, FTK Imager, oXygen XML Editor, The Museum System (TMS)  
-* Experience implementing and managing daily use and customization of production multi-server Archivematica-based digital repository.
+* **Digital preservation software:** Experience implementing and managing daily use and customization of production multi-server Archivematica-based digital repository.
+* **Digital forensics:** Bitcurator, FTK Imager, The Sleuth Kit (TSK), Bulk Extractor, Kryoflux
 * Experience developing and maintaining free and open-source digital preservation software utilities.
 
 
