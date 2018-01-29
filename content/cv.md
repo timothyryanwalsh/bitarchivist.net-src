@@ -136,7 +136,6 @@ Closing remarks, [Designing the Future Landscape: Digital Architecture, Design a
 * **Digital preservation models/standards:** OAIS, Trusted Digital Repositories  
 * **Digital preservation software:** Experience implementing and managing daily use and customization of production multi-server Archivematica-based digital repository.
 * **Digital forensics:** Bitcurator, FTK Imager, The Sleuth Kit (TSK), Bulk Extractor, Kryoflux
-* Experience developing and maintaining free and open-source digital preservation software utilities.
 
 
 #### Software Development
