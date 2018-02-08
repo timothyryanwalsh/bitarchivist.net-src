@@ -146,7 +146,7 @@ Closing remarks, [Designing the Future Landscape: Digital Architecture, Design a
 * **Programming languages:** Python, bash, JavaScript, SQL 
 * **Web frameworks:** Django, Flask
 * **Static site generators:** Hugo, Jekyll
-* **Front end:** CSS3, Flexbox, Boostrap, jQuery
+* **Front end:** CSS3, Flexbox, Bootstrap, jQuery
 * **Markup languages:** HTML5, XML/XSLT, JSON, Markdown  
 * **Version control:** git, Github  
 * **Continuous integration:** TravisCI, tox
