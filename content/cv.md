@@ -159,7 +159,7 @@ Closing remarks, [Designing the Future Landscape: Digital Architecture, Design a
 
 #### Society of American Archivists
 
-* Web Liaison, Architectural Records Section, 2015 - present
+* Web Liaison, Architectural Records Section, 2015 - 2017
 * Member, Architectural Records Section CAD/BIM Taskforce, 2015 - present
 
 #### Software Preservation Network
