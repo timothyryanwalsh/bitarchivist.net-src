@@ -169,7 +169,7 @@ Closing remarks, [Designing the Future Landscape: Digital Architecture, Design a
 * Member, Metadata Standards and Policies Working Group, 2016 - 2017
 * Established an [Open Science Framework shared documentation repository](https://osf.io/a7uea/) for Software Preservation Network project members and volunteers.
 
-#### BitCurator  
+#### BitCurator Consortium
 
 * Member, Software Development Committee, 2017 - present 
 
