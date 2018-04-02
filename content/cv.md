@@ -182,9 +182,6 @@ Closing remarks, [Designing the Future Landscape: Digital Architecture, Design a
 * Co-Chair, May 2014 - May 2015
 * Archivist/Secretary, December 2013 - May 2014
 
-#### SLA@Simmons (Student Chapter of Special Libraries Association), Simmons College
-* Treasurer, September 2012 - December 2013
-
 # Mentions of my work
 
 * ["The Quest for a Universal Translator for Old, Obsolete Computer Files"](https://web.archive.org/web/20180313232541/https://www.atlasobscura.com/articles/how-to-open-old-computer-files), Jessica Leigh Hester, Atlas Obscura, 8 March 2018.  
