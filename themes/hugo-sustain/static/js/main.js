@@ -1,8 +1,10 @@
 /**
- * Created by fabiomadeira on 25/02/15.
+ * Created by fabiomadeira on 25/02/15. Customized by Tim Walsh in March 2018.
  */
-// jQuery for page scrolling feature
-jQuery(document).ready(function(e) {
+
+$(document).ready(function(e) {
+    
+    // jQuery for page scrolling feature
     e(".scroll").click(function(t) {
         t.preventDefault();
         e("html,body").animate({
