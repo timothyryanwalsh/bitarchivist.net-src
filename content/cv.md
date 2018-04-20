@@ -71,6 +71,10 @@ Session review, "[S10. Providing Access to Born-Digital Materials](https://newen
 
 # Teaching
 
+Guest lecturer, Digital Curation and Metadata courses, McGill School of Information Studies, Winter 2018
+
+Guest lecturer, Architecture et Information 2.0, Université de Montreal, 2017-2018
+
 "[Preserving Removable Digital Media](https://www.nedcc.org/preservation-training/training-calendar/event-details?eventid=273)," online (two-hour webinar), NEDCC. Offered: 4 April 2017.  
 
 "[Introduction to Computer Aided Design (CAD) for Archivists](https://www.lyrasis.org/Pages/EventDetail.aspx?Eid=FF6E5D5B-2887-E611-80D3-00155D0A8C44)," online (two-hour webinar), LYRASIS. Offered: 9 March 2017 & 9 September 2017.
