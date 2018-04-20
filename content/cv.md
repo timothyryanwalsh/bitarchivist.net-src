@@ -1,6 +1,6 @@
 +++
 Title = "Curriulum Vitae"
-date = "2018-01-28"
+date = "2018-04-20"
 description = ""
 +++
 
