@@ -93,6 +93,8 @@ Guest lecturer, Architecture et Information 2.0, Université de Montreal, 2017-2
 
 # Presentations
 
+"[Software Collection Development](https://dpconline.org/events/past-events/webinars/spw-software-collection-development)" (with Anne-Marie Trépanier, Paula Jabloner, Patricia Falcao), Software Preservation Webinar, Digital Preservation Coalition/Software Preservation Network, 2 May 2018.
+
 [Archiving Digital Architectural Heritage Experts Meeting](https://collectie.hetnieuweinstituut.nl/bewaren/expertmeeting-archiving-digital-architectural-heritage), Het Nieuewe Instituut, Rotterdam, Netherlands, 20 March 2018.
 
 "Preservation and Access to Born-Digital Architectural Records: Issues and the CCA Approach," [Save As: Archiving Born-Digital Architectural Materials](http://saltonline.org/en/1722/farkli-kaydet-dijital-olarak-uretilmis-mimari-iceriklerin-arsivlenmesi?home), SALT Galaga, Istanbul, Turkey (presentation by video conference), 1 December 2017. 
