@@ -105,10 +105,11 @@ html, body {
 }
 .container a {
   color: #000;
-  text-decoration-style: dashed;
+  font-weight: bold;
 }
 .container a:hover {
   color: #009bff;
+  text-decoration-style: dashed;
 }
 .img-responsive {
  display: block;
