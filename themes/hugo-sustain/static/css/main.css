@@ -109,6 +109,7 @@ html, body {
 }
 .container a:hover {
   color: #009bff;
+  text-decoration-style: dashed;
 }
 .img-responsive {
  display: block;
