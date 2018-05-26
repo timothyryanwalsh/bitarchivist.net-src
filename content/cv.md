@@ -15,21 +15,20 @@ University of Florida
 
 # Professional Experience
 
-#### Canadian Centre for Architecture (Montréal, QC)
-**Archivist, Digital Archives** | June 2015 - present  
+#### Library Innovation Lab at Harvard University (Cambridge, MA)
+##Summer Fellow** | June - August 2018
 
-* Establishes standards, policies, and procedures for acquisition, treatment, arrangement, description, and access of born-digital archives.
-* Supervises four professional archivists and daily work of a digital archives technician.  
-* Manages CCA's Archivematica-based digital repository.  
-* Develops software to enhance CCA's ability to accession, triage, arrange, describe, and ingest born-digital records.
-* Reviews and processes archival collections.  
-* Oversees project to disk image and preserve media across the CCA collection.
-* In collaboration with IT, Conservation, and Collection staff, identifies, reviews, and implements key elements of CCA's digital preservation infrastructure.
-* Coordinates acquisitions of electronic records, acting as a liaison between records creators and CCA's curatorial, archival, preservation, and technical staff.
-* Advises Collection staff of the functional requirements for acquiring, preserving, and processing born-digital archives and trains archivist trainees, processing archivists, curators, and cataloguers as necessary.
-* Develops protocols and tools for access to born-digital records in contemporary and legacy software in CCA reading room.
-* Provides reference services for researchers working with born-digital records.
-* Contributes to broader discussions surrounding the management of digital assets and metadata at CCA.
+* Working on tools to help librarians and archivists manage sensitive personal information in digital archives.
+
+#### Canadian Centre for Architecture (Montréal, QC)
+**Archivist, Digital Archives** | June 2015 - May 2018  
+
+* Established standards, policies, and procedures for acquisition, arrangement, description, ingest, preservation, and access of born-digital archives.
+* Hired, trained, and supervised 4 FTE professional archivists and supervised dialy work of a digital archives technician.
+* Lead CCA implementation and managed daily use of a multi-pipeline Archivematica-based digital preservation system.
+* Developed and maintained digital preservation software to enhance CCA's ability to accession, triage, arrange, describe, and ingest born-digital records.
+* Reviewed, processed, and oversaw professing of archival fonds and collections.
+* Coordinated acquisitions of digital records from donors.
 
 #### Tufts University, Digital Collections & Archives (Somerville, MA)
 **Archives and Research Assistant** | February 2013 - May 2015 (except May-August 2014)
