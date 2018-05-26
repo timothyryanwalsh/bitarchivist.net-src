@@ -24,7 +24,7 @@ University of Florida
 **Archivist, Digital Archives** | June 2015 - May 2018  
 
 * Established standards, policies, and procedures for acquisition, arrangement, description, ingest, preservation, and access of born-digital archives.
-* Hired, trained, and supervised 4 FTE professional archivists and supervised dialy work of a digital archives technician.
+* Hired, trained, and supervised 4 FTE professional archivists. Supervised daily work of a digital archives technician.
 * Lead CCA implementation and managed daily use of a multi-pipeline Archivematica-based digital preservation system.
 * Developed and maintained digital preservation software to enhance CCA's ability to accession, triage, arrange, describe, and ingest born-digital records.
 * Reviewed, processed, and oversaw professing of archival fonds and collections.
