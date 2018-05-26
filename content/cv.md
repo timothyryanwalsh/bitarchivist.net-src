@@ -16,7 +16,7 @@ University of Florida
 # Professional Experience
 
 #### Library Innovation Lab at Harvard University (Cambridge, MA)
-##Summer Fellow** | June - August 2018
+**Summer Fellow** | June - August 2018
 
 * Working on tools to help librarians and archivists manage sensitive personal information in digital archives.
 
