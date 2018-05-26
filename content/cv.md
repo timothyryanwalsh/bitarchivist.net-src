@@ -27,7 +27,7 @@ University of Florida
 * Hired, trained, and supervised 4 FTE professional archivists. Supervised daily work of a digital archives technician.
 * Lead CCA implementation and managed daily use of a multi-pipeline Archivematica-based digital preservation system.
 * Developed and maintained digital preservation software to enhance CCA's ability to accession, triage, arrange, describe, and ingest born-digital records.
-* Reviewed, processed, and oversaw professing of archival fonds and collections.
+* Reviewed, processed, and oversaw processing of archival fonds and collections.
 * Coordinated acquisitions of digital records from donors.
 
 #### Tufts University, Digital Collections & Archives (Somerville, MA)
