@@ -171,14 +171,14 @@ Closing remarks, [Designing the Future Landscape: Digital Architecture, Design a
 
 #### Software Preservation Network
 
-* Coordinator, Documentation Working Group, 2016 - present  
+* Coordinator, Documentation Working Group, 2016 - 2018 
 * Facilitator, Meeting 2: "Understanding how working groups complement one another", All-Hands Strategy Meetings, January 2018
 * Member, Metadata Standards and Policies Working Group, 2016 - 2017
 * Established an [Open Science Framework shared documentation repository](https://osf.io/a7uea/) for Software Preservation Network project members and volunteers.
 
 #### BitCurator Consortium
 
-* Member, Software Development Committee, 2017 - present 
+* Member, Software Development Committee, 2017 - 2018
 
 #### Simmons College, Leveraging Encoded Archival Description Skills (LEADS)
 
