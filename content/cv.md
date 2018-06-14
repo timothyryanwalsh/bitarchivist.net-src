@@ -191,7 +191,7 @@ Closing remarks, [Designing the Future Landscape: Digital Architecture, Design a
 
 # Mentions of my work
 
-* ["Expertmeeting: Archiving Digital Architectural Heritage"](https://collectie.hetnieuweinstituut.nl/bewaren/expertmeeting-archiving-digital-architectural-heritage) (in Dutch), Lotte Haagsma, Het Nieuwe Instituut, April 2018. 
+* ["Expertmeeting: Archiving Digital Architectural Heritage"](https://collectie.hetnieuweinstituut.nl/en/preservation/meeting-experts-archiving-digital-architectural-heritage), Lotte Haagsma, Het Nieuwe Instituut, April 2018. 
 
 * ["Designing the Future Landscape: Digital Architecture, Design & Engineering Assets"](https://loc.gov/preservation/digital/meetings/DesigningTheFutureLandscapeReport.pdf), Aliza Leventhal, Library of Congress report, 12 March 2018.
 
