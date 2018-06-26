@@ -70,9 +70,11 @@ Session review, "[S10. Providing Access to Born-Digital Materials](https://newen
 
 # Teaching
 
-Guest lecturer, Digital Curation and Metadata courses, McGill School of Information Studies, Winter 2018
+Community counselor, Archivematica Camp Baltimore, Johns Hopkins University, Baltimore, MD, June 21-22, 2018.
 
-Guest lecturer, Architecture et Information 2.0, Université de Montreal, 2017-2018
+Guest lecturer, Digital Curation and Metadata courses, McGill School of Information Studies, Montreal, QC, Winter 2018.
+
+Guest lecturer, Architecture et Information 2.0, Université de Montreal, Montreal, QC, 2017-2018.
 
 "[Preserving Removable Digital Media](https://www.nedcc.org/preservation-training/training-calendar/event-details?eventid=273)," online (two-hour webinar), NEDCC. Offered: 4 April 2017.  
 
