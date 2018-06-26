@@ -70,7 +70,7 @@ Session review, "[S10. Providing Access to Born-Digital Materials](https://newen
 
 # Teaching
 
-Community counselor, Archivematica Camp Baltimore, Johns Hopkins University, Baltimore, MD, June 21-22, 2018.
+Community counselor, [Archivematica Camp Baltimore](https://wiki.archivematica.org/Community/Camps/Baltimore2018), Johns Hopkins University, Baltimore, MD, June 21-22, 2018.
 
 Guest lecturer, Digital Curation and Metadata courses, McGill School of Information Studies, Montreal, QC, Winter 2018.
 
