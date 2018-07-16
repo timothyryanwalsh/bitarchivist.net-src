@@ -58,13 +58,13 @@ University of Florida
 
 # Writing
 
-## Peer Reviewed
+#### Peer Reviewed
 
 "[Efficient appraisal and processing of disk images of legacy digital storage media at the Canadian Centre for Architecture](https://www.henrystewartpublications.com/jdmm/v6)," Journal of Digital Media Management, Volume 6, Number 4, Summer 2018.
 
 "[Data-Driven Reporting and Processing of Digital Archives with Brunnhilde](https://practicaltechnologyforarchives.org/issue8_walsh/)," Practical Technology for Archives, Issue 8, July 2017.
 
-## Non-Peer Reviewed
+#### Non-Peer Reviewed
 
 Jessica Meyerson, Zach Vowell, Wendy Hagenmaier, Aliza Leventhal, Fernando Rios, Elizabeth Russey Roke and Tim Walsh. "[The Software Preservation Network (SPN): A Community Effort to Ensure Long Term Access to Digital Cultural Heritage](http://www.dlib.org/dlib/may17/meyerson/05meyerson.html)," DLib Magazine 23, no. 5/6, May/June 2017.
 
