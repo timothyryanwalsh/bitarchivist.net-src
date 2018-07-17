@@ -14,7 +14,7 @@ But let's take a few steps back before we get into the details.
 
 # Why focus on PII?
 
-Digital preservation has become a much more commonplace activity in cultural heritage organizations in recent years, which is fantastic. More and more organizations have dedicated staff for digital preservation and/or digital archive, and, as evidenced by recent reports such as the [2017 NDSA Fixity Survey](https://osf.io/snjbv/) and the [Beyond the Repository](https://arch.library.northwestern.edu/concern/generic_works/00000009g) survey, organizations are now actively ingesting and preserving digital content at considerable scale.
+Digital preservation has become a much more commonplace activity in cultural heritage organizations in recent years, which is fantastic. More and more organizations have dedicated staff for digital preservation and digital archives, and, as evidenced by recent reports such as the [2017 NDSA Fixity Survey](https://osf.io/snjbv/) and the [Beyond the Repository](https://arch.library.northwestern.edu/concern/generic_works/00000009g) survey, organizations are now actively ingesting and preserving digital content at considerable scale.
 
 Yet some common obstacles remain for those who are preserving our digital past. One such obstacle is the presence of PII and other sensitive information, such as Social Security Numbers, credit card numbers, phone numbers, email address, student records, and medical records, in records and data sets that we seek to preserve and make accessible to the public.
 
