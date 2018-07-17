@@ -39,7 +39,7 @@ The past five years have not seen significant improvement: in [panel sessions at
 
 In the current landscape, there are essentially three serious contenders for software tools to use in identifying PII:
 
-* [Spirion](https://www.spirion.com/) (formerly Identity Finder)]
+* [Spirion](https://www.spirion.com/) (formerly Identity Finder)
 * [Forensic Toolkit](https://accessdata.com/products-services/forensic-toolkit-ftk)
 * [bulk_extractor](https://www.forensicswiki.org/wiki/Bulk_extractor)
 
