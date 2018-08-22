@@ -15,7 +15,7 @@ University of Florida
 
 # Professional Experience
 
-#### Concordia University Library
+#### Concordia University Library (Montréal, QC)
 **Digital Preservation Librarian** | August 2018 - present
 
 * Leads and works in collaboration to develop policies, procedures, strategies and workflows to ensure long-term digital preservation.
