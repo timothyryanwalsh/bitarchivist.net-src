@@ -1,4 +1,4 @@
-+++
+ds+++
 Title = "Curriulum Vitae"
 date = "2018-04-20"
 description = ""
@@ -15,10 +15,20 @@ University of Florida
 
 # Professional Experience
 
+#### Concordia University Library
+**Digital Preservation Librarian** | August 2018 - present
+
+* Leads and works in collaboration to develop policies, procedures, strategies and workflows to ensure long-term digital preservation.
+* Participates in the administration and development of the Library’s technology infrastructure for digital preservation.
+* Coordinates the Library’s participation in local, regional and national web archiving projects. Establishes policies, procedures and workflows related to web archiving.
+* Provides training, workshops, and instruction on digital preservation for classroom, library and online learning environments.
+* Subject librarian for computer science and engineering.
+
 #### Library Innovation Lab at Harvard University (Cambridge, MA)
 **Summer Fellow** | June - August 2018
 
-* Working on tools to help librarians and archivists manage sensitive personal information in digital archives.
+* Researched management sensitive personal information in digital archives.
+* Developed early prototype of [Bulk Reviewer](https://github.com/timothyryanwalsh/bulk-reviewer), an application that aids librarians and archivists in identifying, reviewing, and removing potentially sensitive information in directories and disk images (built in Django, Django REST Framework, and Vue.js).
 
 #### Canadian Centre for Architecture (Montréal, QC)
 **Archivist, Digital Archives** | June 2015 - May 2018  
