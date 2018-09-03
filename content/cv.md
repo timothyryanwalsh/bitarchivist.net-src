@@ -168,15 +168,15 @@ Closing remarks, [Designing the Future Landscape: Digital Architecture, Design a
 
 *Self-taught developer currently working on several part-time Django and Flask projects and studying full-stack JavaScript.*
 
-* **Programming languages:** Python, JavaScript, SQL, shell scripting
-* **Web frameworks:** Django, Django REST framework, Flask
+* **Programming languages:** Python, JavaScript (ES6), SQL, shell scripting
+* **Backend frameworks:** Django, Django REST framework, Django Channels, Flask
 * **Static site generators:** Hugo, Jekyll
-* **Front end:** CSS3, Flexbox, Bootstrap, jQuery
+* **Front end:** Vue.js, CSS3, Flexbox, Bootstrap 4, jQuery
 * **Markup languages:** HTML5, XML/XSLT, JSON, Markdown  
 * **Version control:** git, Github  
 * **Continuous integration:** TravisCI, tox
 * **Databases:** SQLite, MySQL, MS SQL Server, SQLAlchemy
-* **GUI Frameworks:** PyQT  
+* **GUI Frameworks:** PyQt  
 * **Operating Systems:** Linux, macOS, Windows  
 * **Containers:** Docker, Docker Compose
 
@@ -214,4 +214,5 @@ Closing remarks, [Designing the Future Landscape: Digital Architecture, Design a
 * ["Designing the Future Landscape: Digital Architecture, Design & Engineering Assets"](https://loc.gov/preservation/digital/meetings/DesigningTheFutureLandscapeReport.pdf), Aliza Leventhal, Library of Congress report, 12 March 2018.
 
 * ["The Quest for a Universal Translator for Old, Obsolete Computer Files"](https://www.atlasobscura.com/articles/how-to-open-old-computer-files), Jessica Leigh Hester, Atlas Obscura, 8 March 2018.  
+
 * ["Review: Archaeology of the Digital: Complexity and Convention"](http://jsah.ucpress.edu/content/76/2/261), Matthew Allen, Journal of the Society of Architectural Historians, Vol. 76, No. 2, June 2017.
