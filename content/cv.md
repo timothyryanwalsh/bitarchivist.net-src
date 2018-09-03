@@ -166,8 +166,6 @@ Closing remarks, [Designing the Future Landscape: Digital Architecture, Design a
 
 #### Software Development
 
-*Self-taught developer currently working on several part-time Django and Flask projects and studying full-stack JavaScript.*
-
 * **Programming languages:** Python, JavaScript (ES6), SQL, shell scripting
 * **Backend frameworks:** Django, Django REST framework, Django Channels, Flask
 * **Static site generators:** Hugo, Jekyll
