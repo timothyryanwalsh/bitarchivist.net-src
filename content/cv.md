@@ -27,7 +27,7 @@ University of Florida
 #### Library Innovation Lab at Harvard University (Cambridge, MA)
 **Summer Fellow** | June - August 2018
 
-* Researched management sensitive personal information in digital archives.
+* Researched management of sensitive personal information in digital archives.
 * Developed early prototype of [Bulk Reviewer](https://github.com/timothyryanwalsh/bulk-reviewer), an application that aids librarians and archivists in identifying, reviewing, and removing potentially sensitive information in directories and disk images (built in Django, Django REST Framework, and Vue.js).
 
 #### Canadian Centre for Architecture (Montréal, QC)
