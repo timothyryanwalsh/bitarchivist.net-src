@@ -18,11 +18,11 @@ University of Florida
 #### Concordia University Library (Montréal, QC)
 **Digital Preservation Librarian** | August 2018 - present
 
-* Leads and works in collaboration to develop policies, procedures, strategies and workflows to ensure long-term digital preservation.
+* Leads and works in collaboration to develop policies, procedures, strategies and workflows to ensure long-term digital preservation of the Library's digital assets.
 * Participates in the administration and development of the Library’s technology infrastructure for digital preservation.
 * Coordinates the Library’s participation in local, regional and national web archiving projects. Establishes policies, procedures and workflows related to web archiving.
 * Provides training, workshops, and instruction on digital preservation for classroom, library and online learning environments.
-* Subject librarian for computer science and engineering.
+* Subject librarian for Computer Science & Software Engineering; Mechanical, Industrial & Aerospace Engineering (MIAE); and Music.
 
 #### Library Innovation Lab at Harvard University (Cambridge, MA)
 **Summer Fellow** | June - August 2018
