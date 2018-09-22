@@ -86,7 +86,7 @@ Session review, "[S10. Providing Access to Born-Digital Materials](https://newen
 
 # Teaching
 
-Co-instructor (with Aliza Leventhal), [Managing Physical & Digital Architecture, Design & Construction Records](https://www2.archivists.org/prof-education/course-catalog/managing-physical-digital-architecture-design-and-construction-records), Society of American Archivists pre-conference course, ARCHIVES\*RECORDS 2018, Washington, DC, 13-14 August 2018.
+Co-instructor (with Aliza Leventhal), [Managing Physical & Digital Architecture, Design & Construction Records](https://www2.archivists.org/prof-education/course-catalog/managing-physical-digital-architecture-design-and-construction-records), Society of American Archivists, ARCHIVES\*RECORDS 2018, Washington, DC, 13-14 August 2018.
 
 Community counselor, [Archivematica Camp Baltimore](https://wiki.archivematica.org/Community/Camps/Baltimore2018), Johns Hopkins University, Baltimore, MD, 21-22 June 2018.
 
