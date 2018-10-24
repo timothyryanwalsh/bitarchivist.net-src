@@ -1,6 +1,6 @@
 +++
 Title = "Curriulum Vitae"
-date = "2018-08-21"
+date = "2018-10-24"
 description = ""
 +++
 
@@ -111,6 +111,12 @@ Guest lecturer, Architecture et Information 2.0, Université de Montreal, Montre
 [addext](https://github.com/timothyryanwalsh/addext): Python-based CLI application to add file extensions to files based on a DROID/Siegfried identification of their PRONOM ID (PUID).
 
 # Presentations
+
+Panel moderator, "[Centralize it!: Creating Infrastructure to Support Digital Preservation](https://osf.io/wrh5t/)", iPRES 2018, Boston, MA, 25 September 2018.
+
+"Bulk Reviewer" (lightning talk), iPRES 2018, Boston, MA, 25 September 2018.
+
+"Bulk Reviewer", New Works: Library Innovation Lab Summer Fellow and Interns project presentations, Harvard Law School, Boston, MA, 2 August 2018.
 
 "[Software Collection Development](https://dpconline.org/events/past-events/webinars/spw-software-collection-development)" (with Anne-Marie Trépanier, Paula Jabloner, Patricia Falcao), Software Preservation Webinar, Digital Preservation Coalition/Software Preservation Network, 2 May 2018.
 
