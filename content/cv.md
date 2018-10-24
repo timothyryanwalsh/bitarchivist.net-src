@@ -116,7 +116,7 @@ Panel moderator, "[Centralize it!: Creating Infrastructure to Support Digital Pr
 
 "Bulk Reviewer" (lightning talk), iPRES 2018, Boston, MA, 25 September 2018.
 
-"Bulk Reviewer", New Works: Library Innovation Lab Summer Fellow and Interns project presentations, Harvard Law School, Boston, MA, 2 August 2018.
+"Bulk Reviewer", New Works: Library Innovation Lab Summer Fellow showcase, Harvard Law School, Boston, MA, 2 August 2018.
 
 "[Software Collection Development](https://dpconline.org/events/past-events/webinars/spw-software-collection-development)" (with Anne-Marie Trépanier, Paula Jabloner, Patricia Falcao), Software Preservation Webinar, Digital Preservation Coalition/Software Preservation Network, 2 May 2018.
 
