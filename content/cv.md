@@ -215,10 +215,9 @@ Closing remarks, [Designing the Future Landscape: Digital Architecture, Design a
 
 # Mentions of my work
 
+* ["Improving Workflows at UNC Libraries' Wilson Special Collections Library"](https://saaers.wordpress.com/2018/10/16/improving-workflows-at-unc-libraries-wilson-special-collections-library/), Erica Titkemeyer and Jessica Venlet, bloggERS!: The Blog of SAA's Electronic Records Section, 16 October 2018.  
+* ["GVSU Scripted IR Curation in the Cloud"](https://saaers.wordpress.com/2018/09/11/gvsu-scripted-ir-curation-in-the-cloud/), Matt Schultz and Kyle Felker, bloggERS!: The Blog of SAA's Electronic Records Section, 11 September 2018.  
 * ["Expertmeeting: Archiving Digital Architectural Heritage"](https://collectie.hetnieuweinstituut.nl/en/preservation/meeting-experts-archiving-digital-architectural-heritage), Lotte Haagsma, Het Nieuwe Instituut, April 2018. 
-
-* ["Designing the Future Landscape: Digital Architecture, Design & Engineering Assets"](https://loc.gov/preservation/digital/meetings/DesigningTheFutureLandscapeReport.pdf), Aliza Leventhal, Library of Congress report, 12 March 2018.
-
+* ["Designing the Future Landscape: Digital Architecture, Design & Engineering Assets"](https://loc.gov/preservation/digital/meetings/DesigningTheFutureLandscapeReport.pdf), Aliza Leventhal, Library of Congress report, 12 March 2018.  
 * ["The Quest for a Universal Translator for Old, Obsolete Computer Files"](https://www.atlasobscura.com/articles/how-to-open-old-computer-files), Jessica Leigh Hester, Atlas Obscura, 8 March 2018.  
-
 * ["Review: Archaeology of the Digital: Complexity and Convention"](http://jsah.ucpress.edu/content/76/2/261), Matthew Allen, Journal of the Society of Architectural Historians, Vol. 76, No. 2, June 2017.
