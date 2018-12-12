@@ -1,5 +1,5 @@
 +++
-Title = "Curriulum Vitae"
+Title = "Tim Walsh CV"
 date = "2018-10-24"
 description = ""
 +++
