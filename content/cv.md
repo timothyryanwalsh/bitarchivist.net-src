@@ -102,6 +102,8 @@ Guest lecturer, Architecture et Information 2.0, Université de Montreal, Montre
 
 (See more detail on software projects [here](/projects/).)
 
+[Bulk Reviewer](https://github.com/timothyryanwalsh/bulk-reviewer): A Django/Vue application for identifying, reviewing, reporting on, and removing private and sensitive information in directories and disk images.
+
 [Brunnhilde](https://github.com/timothyryanwalsh/brunnhilde): A Siegfried-based reporting tool for digital archives.  
 
 [CCA Tools](https://github.com/timothyryanwalsh/cca-tools): A set of processing tools (Disk Image Processor, Folder Processor, SIP Creator, and DFXML Reader) used in the arrangement and description workflows for born-digital archives at CCA.
