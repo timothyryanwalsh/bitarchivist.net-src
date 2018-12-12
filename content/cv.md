@@ -102,13 +102,13 @@ Guest lecturer, Architecture et Information 2.0, Université de Montreal, Montre
 
 (See more detail on software projects [here](/projects/).)
 
-[Bulk Reviewer](https://github.com/timothyryanwalsh/bulk-reviewer): A Django/Vue application for identifying, reviewing, reporting on, and removing private and sensitive information in directories and disk images.
+[Bulk Reviewer](https://github.com/timothyryanwalsh/bulk-reviewer): A software application for identifying, reviewing, reporting on, and removing private and sensitive information in directories and disk images built using [Django](https://www.djangoproject.com/), [Django Rest Framework](http://www.django-rest-framework.org/), [Celery](http://www.celeryproject.org/), [Django Channels](https://channels.readthedocs.io/en/latest/), and [Vue.js](https://vuejs.org/).
 
-[Brunnhilde](https://github.com/timothyryanwalsh/brunnhilde): A Siegfried-based reporting tool for digital archives.  
+[Brunnhilde](https://github.com/timothyryanwalsh/brunnhilde): A [Siegfried](https://github.com/richardlehane/siegfried)-based CLI and GUI digital archives reporting/minimal digital processing tool for directories and disk images written in Python.
 
-[CCA Tools](https://github.com/timothyryanwalsh/cca-tools): A set of processing tools (Disk Image Processor, Folder Processor, SIP Creator, and DFXML Reader) used in the arrangement and description workflows for born-digital archives at CCA.
+[CCA Tools](https://github.com/cca-public/cca-tools): A set of digital archives processing tools - [Disk Image Processor](https://github.com/cca-public/diskimageprocessor), [Folder Processor](https://github.com/cca-public/folderprocessor), and [SIP Creator](https://github.com/cca-public/sipcreator) - developed for the [BitCurator environment](https://confluence.educopia.org/display/BC) in Python and [PyQt5](https://pythonspot.com/pyqt5/) at the [Canadian Centre for Architecture](https://cca.qc.ca).
 
-[METSFlask](https://github.com/timothyryanwalsh/METSFlask): A web application for human-friendly exploration of Archivematica METS files.
+[METSFlask](https://github.com/timothyryanwalsh/METSFlask): A web application for human-friendly exploration of Archivematica METS files written using Python and [Flask](http://flask.pocoo.org/).
 
 [addext](https://github.com/timothyryanwalsh/addext): Python-based CLI application to add file extensions to files based on a DROID/Siegfried identification of their PRONOM ID (PUID).
 
